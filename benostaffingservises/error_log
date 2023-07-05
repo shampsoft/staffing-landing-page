@@ -1,0 +1,32 @@
+[12-Jun-2023 07:35:19 UTC] PHP Warning:  Undefined variable $email in /home3/benosmiv/klmtents.com/staffing/contact-form.php on line 5
+[12-Jun-2023 07:35:19 UTC] PHP Warning:  Undefined variable $number in /home3/benosmiv/klmtents.com/staffing/contact-form.php on line 15
+[12-Jun-2023 07:39:26 UTC] PHP Warning:  Undefined variable $email in /home3/benosmiv/klmtents.com/staffing/contact-form.php on line 5
+[12-Jun-2023 07:39:26 UTC] PHP Warning:  Undefined variable $number in /home3/benosmiv/klmtents.com/staffing/contact-form.php on line 15
+[12-Jun-2023 07:55:26 UTC] PHP Warning:  require(phpmailer/PHPMailerAutoload.php): Failed to open stream: No such file or directory in /home3/benosmiv/klmtents.com/staffing/index.php on line 6
+[12-Jun-2023 07:55:26 UTC] PHP Warning:  require(phpmailer/PHPMailerAutoload.php): Failed to open stream: No such file or directory in /home3/benosmiv/klmtents.com/staffing/index.php on line 6
+[12-Jun-2023 07:55:26 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'phpmailer/PHPMailerAutoload.php' (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home3/benosmiv/klmtents.com/staffing/index.php:6
+Stack trace:
+#0 {main}
+  thrown in /home3/benosmiv/klmtents.com/staffing/index.php on line 6
+[12-Jun-2023 09:41:03 UTC] PHP Warning:  require(phpmailer/PHPMailerAutoload.php): Failed to open stream: No such file or directory in /home3/benosmiv/klmtents.com/staffing/index.php on line 6
+[12-Jun-2023 09:41:03 UTC] PHP Warning:  require(phpmailer/PHPMailerAutoload.php): Failed to open stream: No such file or directory in /home3/benosmiv/klmtents.com/staffing/index.php on line 6
+[12-Jun-2023 09:41:03 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'phpmailer/PHPMailerAutoload.php' (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home3/benosmiv/klmtents.com/staffing/index.php:6
+Stack trace:
+#0 {main}
+  thrown in /home3/benosmiv/klmtents.com/staffing/index.php on line 6
+[12-Jun-2023 09:42:07 UTC] PHP Warning:  require(phpmailer/PHPMailerAutoload.php): Failed to open stream: No such file or directory in /home3/benosmiv/klmtents.com/staffing/index.php on line 6
+[12-Jun-2023 09:42:08 UTC] PHP Warning:  require(phpmailer/PHPMailerAutoload.php): Failed to open stream: No such file or directory in /home3/benosmiv/klmtents.com/staffing/index.php on line 6
+[12-Jun-2023 09:42:08 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'phpmailer/PHPMailerAutoload.php' (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home3/benosmiv/klmtents.com/staffing/index.php:6
+Stack trace:
+#0 {main}
+  thrown in /home3/benosmiv/klmtents.com/staffing/index.php on line 6
+[12-Jun-2023 09:50:15 UTC] PHP Warning:  require(phpmailer/PHPMailerAutoload.php): Failed to open stream: No such file or directory in /home3/benosmiv/klmtents.com/staffing/index.php on line 6
+[12-Jun-2023 09:50:15 UTC] PHP Warning:  require(phpmailer/PHPMailerAutoload.php): Failed to open stream: No such file or directory in /home3/benosmiv/klmtents.com/staffing/index.php on line 6
+[12-Jun-2023 09:50:15 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'phpmailer/PHPMailerAutoload.php' (include_path='.:/opt/cpanel/ea-php81/root/usr/share/pear') in /home3/benosmiv/klmtents.com/staffing/index.php:6
+Stack trace:
+#0 {main}
+  thrown in /home3/benosmiv/klmtents.com/staffing/index.php on line 6
+[12-Jun-2023 10:46:50 UTC] PHP Warning:  Undefined variable $email in /home3/benosmiv/klmtents.com/staffing/contact-form.php on line 5
+[12-Jun-2023 10:46:50 UTC] PHP Warning:  Undefined variable $number in /home3/benosmiv/klmtents.com/staffing/contact-form.php on line 15
+[12-Jun-2023 10:49:51 UTC] PHP Warning:  Undefined variable $email in /home3/benosmiv/klmtents.com/staffing/contact-form.php on line 5
+[12-Jun-2023 10:49:51 UTC] PHP Warning:  Undefined variable $number in /home3/benosmiv/klmtents.com/staffing/contact-form.php on line 15
